@@ -133,7 +133,7 @@ FinancialFraud_and_RiskAnalytics_Project/
 
 ---
 
-## 👤 Author
+##  Author
 
 Satvik  
 Data Analyst | SQL | Python | Power BI
