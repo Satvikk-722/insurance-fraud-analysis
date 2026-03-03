@@ -1,6 +1,6 @@
-# 🛡️ Insurance Fraud Risk Analysis
+#  Insurance Fraud Risk Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes multi-year insurance claims data (2020–2025) to identify fraud patterns, high-risk entities, and behavioral red flags.
 
@@ -13,7 +13,7 @@ The objective is to simulate a real-world consulting-style fraud risk analysis u
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 
 Insurance fraud leads to significant financial losses.  
 This project aims to:
@@ -26,7 +26,7 @@ This project aims to:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - Overall Fraud Rate: **7.05%**
 - Early Claims Fraud Rate: **10.62%** (significantly higher risk)
@@ -36,7 +36,7 @@ This project aims to:
 
 ---
 
-## 🗂️ Dataset Description
+##  Dataset Description
 
 The project uses structured relational datasets:
 
@@ -49,7 +49,7 @@ Time Range: **2020 – 2025**
 
 ---
 
-## 🧹 Data Cleaning (Python)
+##  Data Cleaning (Python)
 
 Performed using Pandas & NumPy:
 
@@ -64,7 +64,7 @@ Script:
 
 ---
 
-## 🗄️ SQL Analysis
+##  SQL Analysis
 
 Performed advanced business analysis using MySQL:
 
@@ -80,7 +80,7 @@ SQL File:
 
 ---
 
-## 📈 Power BI Dashboard
+##  Power BI Dashboard
 
 Developed an executive-level dashboard including:
 
@@ -101,7 +101,7 @@ Preview:
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 - Python (Pandas, NumPy)
 - MySQL
@@ -110,7 +110,7 @@ Preview:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 FinancialFraud_and_RiskAnalytics_Project/
 │
 ├── data/
@@ -124,7 +124,7 @@ FinancialFraud_and_RiskAnalytics_Project/
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Fraud Prediction Model (Random Forest / XGBoost)
 - Feature Importance Analysis
