@@ -126,7 +126,7 @@ FinancialFraud_and_RiskAnalytics_Project/
 
 ##  Future Enhancements
 
-- Fraud Prediction Model (Random Forest / XGBoost)
+- Fraud Prediction Model (Random Forest)
 - Feature Importance Analysis
 - Risk Scoring Framework
 - Deployment-ready pipeline
